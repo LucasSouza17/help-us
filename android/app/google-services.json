@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "153704706329",
+    "project_id": "app-help-us",
+    "storage_bucket": "app-help-us.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153704706329:android:6be4e7f585eea71b8a5588",
+        "android_client_info": {
+          "package_name": "com.helpus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153704706329-k44oh4bf41l75tsiqg6dj05miakqb6s4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpNTvMwqMFPas-L9nH40EqYF0YpYOAAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153704706329-k44oh4bf41l75tsiqg6dj05miakqb6s4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

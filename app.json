@@ -3,8 +3,15 @@
     "name": "help-us",
     "slug": "help-us",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"],
+    "plugins": ["@react-native-firebase/app"],
+    "android": {
+      "package": "com.helpus",
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "bundleIdentifier": "com.helpus",
+      "googleServicesFile": "./GoogleService-Info.plist"
+    }
   }
 }
